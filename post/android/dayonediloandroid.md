@@ -11,6 +11,8 @@ Sebelum masuk ke bahasan tentang hal apa saja yang saya pelajari dalam acara ter
 Didalam DILO itu sendiri, terdapat beberapa program yang sering diadakan, salah satunya adalah program yang saya ikuti, yaitu Dilo Developer Android yang nantinya akan berlangsung selama 4 hari setiap hari Jumat. Jenis acaranya sendiri adalah workshop dan sharing santai.
 
 
+Dalam acara tersebut, saya berkesempatan untuk menimba ilmu dari mas [Pratama Nur Wijaya](https://id.linkedin.com/in/pratamawijaya), beliau adalah seorang yang sudah berpengalaman dalam dunia android dan saat ini bekerja di PT. Infiniti Cipta Teknologi sebagai android developer. Untuk akun githubnya sendiri bisa dikunjungi pada link berikut --> [Pratama Nur Wijaya](http://github.com/pratamawijaya).
+
 
 
 
