@@ -23,6 +23,14 @@ Acara pada malam itu berlangsung dalam waktu 2 jam, outlinenya sendiri kurang le
 7. Penjelasan singkat tentang tipe data yang digunakan dalam kotlin
 8. Dan masih banyak yang lain
 
+# Rangkuman acara
+
+> Note : catatan yang saya sharing hanya sebatas dari apa yang saya pahami, apabila ada kesalahan mohon perbaikannya
+
+
+
+Selain berbagi ilmu, mas Pratama juga membuat group telegram untuk keperluan komunikasi dan media untuk bertanya.
+
 Hal yang saya sesali pada hari pertama adalah sebenarnya ada beberapa pertanyaan yang ingin saya tanyakan, namun karena self-esteem saya yang rendah akhirnya saya mengurungkan niat. Seharusnya saya bisa lebih berani lagi.
 
 
