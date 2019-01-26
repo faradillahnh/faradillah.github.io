@@ -13,7 +13,7 @@ Didalam DILO itu sendiri, terdapat beberapa program yang sering diadakan, salah 
 
 Dalam acara tersebut, saya berkesempatan untuk menimba ilmu dari mas [Pratama Nur Wijaya](https://id.linkedin.com/in/pratamawijaya), beliau adalah seorang yang sudah berpengalaman dalam dunia android dan saat ini bekerja di PT. Infiniti Cipta Teknologi sebagai android developer. Untuk akun githubnya sendiri bisa dikunjungi pada link berikut --> [Pratama Nur Wijaya](http://github.com/pratamawijaya).
 
-Acara pada malam itu berlangsung dalam waktu 2 jam, outlinenya sendiri kurang lebih sebagai berikut (saya telat haha):
+Acara pada malam itu berlangsung dalam waktu 2 jam, outlinenya sendiri kurang lebih sebagai berikut (saya telat datengnya haha):
 1. Perkenalan
 2. Pengenalan android IDE environment, tools nya ada apa saja
 3. Penjelasan singkat tentang Android Development Process
