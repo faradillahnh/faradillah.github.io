@@ -2,5 +2,5 @@
 layout: default
 ---
 
-#Day One di acara Dilo Developer Android
+# Day One di acara Dilo Developer Android
 
